@@ -26,5 +26,8 @@ public class MainMethodOverLoad {
 		System.out.println("method 2");
 		System.out.println("2");
 		
+		System.out.println("kishone");
+		System.out.println("1");
+
 	}
 }
