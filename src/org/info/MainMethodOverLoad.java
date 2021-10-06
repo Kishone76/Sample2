@@ -23,5 +23,8 @@ public class MainMethodOverLoad {
 		main(1805);
 		main(8122483438l);
 		main(876.876f);
+		System.out.println("method 2");
+		System.out.println("2");
+		
 	}
 }
