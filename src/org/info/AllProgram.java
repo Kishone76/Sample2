@@ -18,6 +18,9 @@ public class AllProgram {
 	 reverseString("navin");
 		
 		
+		System.out.println("method1"
+				+ "method 2");
+		
 	}
 	
 
